@@ -1,5 +1,5 @@
 
-**Trigger Word Detection Model**  
+#   **Trigger Word Detection Model**  
 
 This repository contains an AI-powered **Trigger Word Detection** system that listens for a specific keyword ("robo") in an audio stream. The model processes audio in **real-time** and can be integrated into voice assistants, smart devices, or hands-free control systems.  
 
